@@ -1,12 +1,12 @@
 # Concepts-of-Dataframes-and-Pandas
 
-Question Set:
+## Question Set:
 
-1) Please find attached a Comma Separated Value File which needs to be cleaned. The file is called emp.txt. 
+1.Please find attached a Comma Separated Value File which needs to be cleaned. The file is called emp.txt. 
 
 It has errors in it which are basically quotes and unnecessary spaces/tabs (leading and trailing spaces/tabs).
 
-Write a Spark or Flink application using Scala or Java programming language, to clean the Comma Separated Value file to remove unnecessary spaces and quotes and apply the format to the digital values as it shown in the second test record. (Scala is preferred).
+Write a Python Programming Language, to clean the Comma Separated Value file to remove unnecessary spaces and quotes and apply the format to the digital values as it shown in the second test record. (Scala is preferred).
 
 The first line in the file is a header, to which the cleansing rule have to be applied as well. 
 
